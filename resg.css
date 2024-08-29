@@ -1,0 +1,64 @@
+
+
+
+
+body{
+    background-color: #535766;
+}
+
+div2{
+    position:absolute;
+    background-color: #8800ffb6;
+    height: 620px;
+    width: 300px;
+    border-radius:0% 10%  50% 10% /
+    5% 50%  10% 40%;
+}
+
+.Box{
+    background-color: rgba(255, 255, 255, 0.85);
+    position: relative;
+    top: 20%;
+    left: 30%;
+    height: 620px;
+    width: 500px;
+    border-radius: 50% 10% 50% 10% /
+    5% 50% 10% 40%;
+    text-align: center;
+
+}
+input{
+    position: relative;
+    top: 50px;
+    margin: 10px;
+    height: 50px;
+    width: 70%;
+    border: 2px solid #8800ff;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: large;
+    font-style: italic;
+    text-align: center;
+
+
+}
+.Text{
+    font-style:italic ;
+    position: relative;
+    top: 40px;
+}
+button{
+    position: relative;
+    top: 45px;
+    margin: 20px;
+    height: 40px ;
+    width: 100px;
+    border-radius: 10px;
+    border: 2px solid #8800ff;
+}
+input:hover{
+    border: 2px solid rgb(233, 108, 6);
+}
+a{
+    text-decoration: none;
+}
